@@ -1,4 +1,5 @@
 #include "ChatRoom.h"
+#include "Client.h"
 #include <unistd.h>
 #include <getopt.h>
 #include <string>
